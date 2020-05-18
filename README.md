@@ -1,4 +1,4 @@
-# CIKM-submission 1596
+# Recsys-submission
 
 The source code and dataset for our paper: Dynamic Graph Collaborative Filtering. We have implemented our methods in Pytorch.
  
